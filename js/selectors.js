@@ -14,3 +14,6 @@ function ninjaBabySelector(){
 function divSelector(){
   return $('div.pics')
 }
+function divSelector(){
+  return $('div.pics')
+}
